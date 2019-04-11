@@ -6,8 +6,10 @@
 ## Blog Schedule
 [Link to Blog Schedule Google Sheet](https://docs.google.com/spreadsheets/d/1naGaeDJ1Te4bYx5O7R-nRFLXIX_C5mQABB30zt3Aps4/edit?usp=sharing)
 
+<!--
 ## Module 1 💙 + 💻
 | Topic            | Code                |
 | -----            | ----                |
 | 1. Topic of the Lecture | [Code](<URL Goes Here>) |
 | 2. Topic of the Lecture | [Code](<URL Goes Here>) |
+-->
